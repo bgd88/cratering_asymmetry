@@ -14,7 +14,7 @@ Introduction
 
 Purpose
 =======
-The prupose of this Monte Carlo Model is to update the work of 
+The purpose of this Monte Carlo Model is to update the work of 
 Zahnle et al., 2001 using modern observations and insight in order to 
 explore differential cratering of synchronously rotating satelites.
 Namely we hope to understand why the crater populations of the 
