@@ -1,9 +1,8 @@
 cratering_asymmetry
 ===================
 
-************ 
 Introduction
-************ 
+======= 
  
 :Authors: Brent Delbridge, Ben Black, Ian Rose, Nick Swanson-Hysell 
 
@@ -16,7 +15,7 @@ Introduction
 Purpose
 =======
 The prupose of this Monte Carlo Model is to update the work of 
-Zahnle 2001 using modern observations and insight in order to 
+Zahnle et al., 2001 using modern observations and insight in order to 
 explore differential cratering of synchronously rotating satelites.
 Namely we hope to understand why the crater populations of the 
 leading versus trailing hemisphere's are not correctly predicted
@@ -43,7 +42,7 @@ Model
 Random Parameters to be Estimated:
 ==================================
 
-The following 6 Parameters will be estimated in out MC simulation.
+The following 6 Parameters will be estimated in our MC simulation.
 
 First there are three parameters required to describe the orbit of 
 an ecliptic comet making a close encounter with a giant planet.
@@ -57,7 +56,7 @@ an ecliptic comet making a close encounter with a giant planet.
 There are two random numbers that will determine where on the hemi-
 sphere the impact will occur.
 
-	4) ??????
+	4) Azimuth of the impact site
 
 	5) Incidence Angle of Impact
 
