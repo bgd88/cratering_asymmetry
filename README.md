@@ -6,8 +6,11 @@ Introduction
 ************ 
  
 :Authors: Brent Delbridge, Ben Black, Ian Rose, Nick Swanson-Hysell 
+
 :Web site: https://github.com/bgd88/cratering_asymetry
+
 :Copyright: This document has been placed in the public domain.
+
 :License:  Released under the Academic Free License.
 
 Purpose
